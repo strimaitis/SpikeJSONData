@@ -6,7 +6,7 @@
     { "id": "Hip Hop and Contemporary Music", "credits" : 3}
   ],
   "profile": [
-    {"fname": "Matthew", "lname": "Strimaitis"},
-    {"fname": "Michael", "lname": "Jordan"}
+    {"username": "Matt", "fname": "Matthew", "lname": "Strimaitis", "courses": [{ "id": "Intro to Computer Engineer", "grade": "A"}, { "id": "Intro to Psychology", "grade": "A"}] },
+    {"username": "MJRules", "fname": "Michael", "lname": "Jordan", "courses": [{ "id": "Intro to Computer Engineer", "grade": "A"}] }
   ]
 }

@@ -1,15 +1,12 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
   "courses": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": "Intro to Psychology", "credits": 3 },
+    { "id": "Intro to Cognitive Science", "credits" : 3 },
+    { "id": "Intro to Computer Engineering", "credits": 2 },
+    { "id": "Hip Hop and Contemporary Music", "credits" : 3}
   ],
-  "profile": {
-    "fname": "Matthew",
-    "lname": "Strimaitis"
-  }
+  "profile": [
+    {"fname": "Matthew", "lname": "Strimaitis"},
+    {"fname": "Michael", "lname": "Jordan"}
+  ]
 }
